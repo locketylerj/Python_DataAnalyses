@@ -1,0 +1,6 @@
+Financial Analysis 
+Total Months: 86 
+Total Revenue is: $38382578
+Net monthly average change is: $-2315.12 
+The greatest increase in profits: 12-Feb ($1926159)
+The greatest decrease in profits: 13-Sep ($-2196167
